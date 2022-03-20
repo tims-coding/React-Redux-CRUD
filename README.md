@@ -7,3 +7,6 @@ Redux now has a toolkit which can reduce boilerplate code. This allows storing s
 - Too much boilerplate code makes code less clean and efficient 
 - Too many packages needed to install to build scalable apps 
 - Writing actions and reducers becomes more complex and cumbersome in huge applications
+
+### Redux Toolkit
+The Redux Team came up with the new Redux toolkit, which is now the official recommended way to write Redux logic. It pairs together the ability to speed up development with reducing boilerplate code and including Redux Core with the packages that are essential to build a Redux app. 
